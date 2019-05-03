@@ -1,2 +1,2 @@
 # programming
-1st semester programming
+1st semester  C programming
